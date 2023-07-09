@@ -1,0 +1,18 @@
+++ Load Game Data:
+Pd2-d4  Ng8-f6
+Pc2-c4  Pg7-g6
+Pf2-f3  Pc7-c5
+Pd4-d5  Pd7-d6
+Pe2-e4  Bf8-g7
+Ng1-e2  O-O
+Ne2-c3  Nf6-h5
+Bc1-g5  Bg7-f6
+Bg5xf6  Pe7xf6
+Qd1-d2  Pf6-f5
+Pe4xf5  Bc8xf5
+Pg2-g4  Rf8-e8+
+Ke1-d1  Bf5xb1
+Ra1xb1  Qd8-f6
+Pg4xh5  Qf6xf3+
+Kd1-c2  Qf3xh1
+Qd2-f2  RESIGN

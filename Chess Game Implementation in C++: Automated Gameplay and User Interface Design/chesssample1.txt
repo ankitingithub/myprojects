@@ -1,0 +1,6 @@
+++ Load Game Data:
+Pd2-d4  Pf7-f5
+Bc1-g5  Ph7-h6
+Bg5-h4  Pg7-g5
+Pe2-e4  Pg5xh4
+Qd1-h5#

@@ -1,0 +1,22 @@
+++ Load Game Data:
+Pe2-e4  Pe7-e5
+Ng1-f3  Nb8-c6
+Bf1-b5  Ng8-f6
+O-O     Nf6xe4
+Pd2-d4  Ne4-d6
+Bb5xc6  Pd7xc6
+Pd4xe5  Nd6-f5
+Qd1xd8  Ke8xd8
+Ph2-h3  Kd8-e8
+Nb1-c3  Ph7-h5
+Nc3-e2  Pb7-b6
+Rf1-d1  Bc8-a6
+Ne2-f4  Ba6-b7
+Pe5-e6  Bf8-d6
+Pe6xf7  Ke8xf7
+Nf3-g5+ Kf7-f6
+Ng5-e4+ Kf6-f7
+Ne4-g5+ Kf7-f6
+Ng5-e4+ Kf6-f7
+Ne4-g5+ Kf7-f6
+DRAW
